@@ -1,0 +1,19 @@
+<div class="itube-body">
+
+    <div class="big-vid-container">
+        <big-video [selected_video]="selected_video"></big-video>
+    </div>
+
+  <div class="vid-list">
+    <div class="video-container" *ngFor="let vid of videos" (click)="vidSelected(vid)">
+      <video [poster]="vid.poster" [src]="vid.src">
+        Sorry, your browser doesn't support embedded videos.
+      </video>
+      <div class="details">
+          <h3> {{ vid.title }} </h3>
+          <h4>By {{ vid.artist }} </h4>
+      </div>
+    </div>
+  </div>
+
+</div>
