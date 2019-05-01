@@ -74,7 +74,7 @@ export class VideosService {
         artist: "Google"
       },
       {
-        title: "Subaru Outback On Street And Dirt",
+        title: "Subaru Outback Street & Dirt",
         src: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
         description: "Smoking Tire takes the all-new Subaru Outback to the highest point we can find in hopes our customer-appreciation Balloon Launch will get some free T-shirts into the hands of our viewers.",
         poster: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
@@ -95,7 +95,7 @@ export class VideosService {
         artist: "Garage419"
       },
       {
-        title: "What care can you get for a grand?",
+        title: "Get ready for the grand!",
         src: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
         description: "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
         poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8iKDLK7gFkTWK9n6iXfZMb-T7PySqcS8Be9yvKQjEzWaI_7N",
